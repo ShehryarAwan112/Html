@@ -1,0 +1,96 @@
+
+
+     .form{
+   
+background-color: indigo;
+     }
+     #form{
+     padding-left:30px;
+     padding-top:50px;
+     width:550px;
+     height:600px;
+     background-color:skyblue;
+     margin-left:400px;
+     margin-top:100px;
+     border-radius:15px;
+    
+     }
+     .style{
+          width: 600px;
+          height: 700px;
+          background-color: lightcoral;
+          margin-left: 300px;
+          border-radius: 12;
+     }
+     .text{
+     width:250px;
+     height:35px;
+     padding-left:50px;
+     border-radius:10px;
+     }
+     .text1{
+     width:250px;
+     height:35px;
+     border-radius:10px;
+     }
+     .email{
+     width:250px;
+     height:35px;
+     border-radius:10px;
+     }
+     .password{
+          width:250px;
+          height:35px;
+          border-radius:10px;
+          }
+          .password1{
+               width:250px;
+               height:35px;
+               border-radius:10px;
+               }
+     #form select{
+     width:80px;
+     height:30px;
+     /* border-radius:12; */
+     }
+    
+     #form p{
+     color:white;
+     }
+
+
+     h2{
+          color: blue;
+     }
+     .cge{
+          background-color:green;
+     }
+     .button
+     {
+     background-color:green;
+     width:120px;
+     height:40px;
+     border-radius:10px;
+     
+     }
+     .day{
+          width: 80px;
+          height: 40px;
+          border-radius: 2;
+     }
+     .four{
+          width: 80px;
+          height: 40px;
+          border-radius: 2;
+     }
+     #form h2{
+     color:white;
+    
+     }
+     #form h3{
+     color: white;
+     }
+     #form input[type ="button"]:hover{
+     background-color:red;
+     transition: 0.6s ease;
+     }
